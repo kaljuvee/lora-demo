@@ -1,0 +1,27 @@
+[
+  {
+    "instruction": "Explain what a neural network is",
+    "input": "",
+    "output": "A neural network is a computational model inspired by biological neural networks. It consists of interconnected nodes (neurons) organized in layers that process information through weighted connections."
+  },
+  {
+    "instruction": "What is machine learning?",
+    "input": "",
+    "output": "Machine learning is a subset of artificial intelligence that enables computers to learn and improve from experience without being explicitly programmed for every task."
+  },
+  {
+    "instruction": "Define deep learning",
+    "input": "",
+    "output": "Deep learning is a subset of machine learning that uses neural networks with multiple hidden layers to model and understand complex patterns in data."
+  },
+  {
+    "instruction": "Explain gradient descent",
+    "input": "",
+    "output": "Gradient descent is an optimization algorithm used to minimize the loss function in machine learning by iteratively adjusting parameters in the direction of steepest descent."
+  },
+  {
+    "instruction": "What is overfitting?",
+    "input": "",
+    "output": "Overfitting occurs when a machine learning model learns the training data too well, including noise and irrelevant patterns, leading to poor performance on new, unseen data."
+  }
+]
